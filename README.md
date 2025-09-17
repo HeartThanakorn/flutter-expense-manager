@@ -142,47 +142,8 @@ flutter build macos --release
 flutter build linux --release
 ```
 
-## 📋 Roadmap
-
-- [ ] Add expense search and filtering
-- [ ] Implement data export (CSV/PDF)
-- [ ] Add expense analytics and charts
-- [ ] Implement recurring expenses
-- [ ] Add budget management
-- [ ] Cloud synchronization
-- [ ] Multi-currency support
-- [ ] Receipt photo attachment
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🐛 Known Issues
-
-- Categories and tags are not persisted to local storage (planned fix)
-- No confirmation dialogs for delete operations (enhancement planned)
-- Limited form validation in some screens (improvement planned)
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/expense_manager/issues) page
-2. Create a new issue with detailed description
-3. For general questions, use the [Discussions](https://github.com/yourusername/expense_manager/discussions) tab
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Material Design for UI inspiration
-- Open source community for the excellent packages used
 
 ---
