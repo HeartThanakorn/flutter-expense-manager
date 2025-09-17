@@ -26,7 +26,7 @@ A comprehensive Flutter application for tracking personal expenses with categori
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/expense_manager.git
+   git clone https://github.com/HeartThanakorn/flutter-expense-manager.git
    cd expense_manager
    ```
 
@@ -186,5 +186,3 @@ If you encounter any issues or have questions:
 - Open source community for the excellent packages used
 
 ---
-
-**Made with ❤️ using Flutter**
